@@ -1,11 +1,11 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
-    "username": "PerzaanLive",
+  "bot-account": {aizen_991
+    "username": "aritLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
-  "server": {LawcraftSMP}
+  "server": {
     "ip": "LawCraftSMP_.aternos.me",
     "port": 15533,
     "version": "1.21.11"
