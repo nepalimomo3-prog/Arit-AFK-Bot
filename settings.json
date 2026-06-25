@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+  "server": {LawcraftSMP}
+    "ip": "LawCraftSMP_.aternos.me",
+    "port": 15533,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
