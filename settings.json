@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SENPAI SPIDER",
+    "username": "aizen_dutta1919",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GOJOYT.aternos.me",
-    "port": 49227,
-    "version": "1.21.1"
+    "ip": "LawCraftSMP_.aternos.me",
+    "port": 15533,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
